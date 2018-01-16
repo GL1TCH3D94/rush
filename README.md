@@ -1,7 +1,7 @@
-# rush
+# Rush
 Sci-fi Shooter Game Mechanic
 
-Controls:
+## Controls:
 
 W,A,S,D - Up, Left, Down, Right
 
